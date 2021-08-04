@@ -21,14 +21,6 @@ body {
   border: 0.15rem solid rgba(47, 228, 11, 0.863);
 }
 
-h1 {
-  font-size: 2rem;
-  font-weight: 400;
-  color: rgba(47, 228, 11, 0.863);
-  text-align: center;
-  text-transform: uppercase;
-  border-bottom: rgba(26, 148, 1, 0.863) 0.1rem solid;
-}
 .relogio {
   color: rgba(47, 228, 11, 0.863);
   text-align: center;
@@ -45,7 +37,6 @@ h1 {
 .button-container {
   display: flex;
   justify-content: center;
-  border-top: rgba(26, 148, 1, 0.863) 0.1rem solid;
   padding-top: 1rem;
 }
 
